@@ -1,0 +1,7 @@
+{
+  "name": "ElephantTrack",
+  "description": "GPS-based wildlife monitoring and human-elephant conflict early warning system for forest rangers and wildlife officials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
